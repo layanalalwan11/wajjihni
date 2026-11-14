@@ -36,9 +36,10 @@ export default function AdmissionPage() {
   useEffect(() => {
     async function loadData() {
       try {
+        const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
         const [admRes, uniRes] = await Promise.all([
-          fetch('/data/admissions.json'),
-          fetch('/data/universities.json'),
+          fetch(`${basePath}/data/admissions.json`),
+          fetch(`${basePath}/data/universities.json`),
         ]);
         const admData = await admRes.json();
         const uniData = await uniRes.json();
