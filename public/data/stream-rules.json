@@ -1,0 +1,33 @@
+{
+  "status": "DRAFT - verify against the official General Admission Policy (mohe.gov.jo) before relying on it",
+  "fieldsAr": {
+    "health": "صحي / طبي",
+    "engineering": "هندسي",
+    "science_tech": "علوم وتكنولوجيا (حاسوب، علوم، زراعة)",
+    "business": "أعمال وسياحة",
+    "humanities": "لغات وعلوم اجتماعية وآداب وفنون",
+    "education": "تربية",
+    "law": "قانون",
+    "sharia": "علوم شرعية"
+  },
+  "streamAccess": {
+    "علمي": "كل الحقول",
+    "أدبي": ["business", "humanities", "education", "law", "sharia"],
+    "شرعي": ["humanities", "education", "law", "sharia"],
+    "مهني": "حسب المسار المهني وبمعدلات قبول مستقلة (غير مغطى بهذه البيانات)"
+  },
+  "minimumToApply": {
+    "note": "حدود دنيا للتقديم متداولة وغير مؤكدة رسمياً هنا؛ حدّها العام الأدنى المعلن 65% في الجامعات الرسمية",
+    "generalMinimum": 65,
+    "medicineAndDentistry": 85,
+    "pharmacyAndEngineering": 80,
+    "nursingAndAlliedHealth": 70,
+    "sharia": 75
+  },
+  "chanceLabels": {
+    "high": "الفرق +3 أو أكثر",
+    "possible": "من -3 إلى +3",
+    "hard": "أقل من -3"
+  },
+  "parallelProgramNote": "معدلات الموازي أقل عادةً بنحو 2 إلى 5 علامات (حسب التخصص) وبرسوم أعلى؛ لم تُجمع أرقام الموازي بعد."
+}

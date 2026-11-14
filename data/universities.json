@@ -1,0 +1,72 @@
+[
+ {
+  "id": "uj",
+  "nameAr": "الجامعة الأردنية",
+  "nameEn": "University of Jordan",
+  "city": "عمان",
+  "type": "public"
+ },
+ {
+  "id": "yu",
+  "nameAr": "جامعة اليرموك",
+  "nameEn": "Yarmouk University",
+  "city": "إربد",
+  "type": "public"
+ },
+ {
+  "id": "just",
+  "nameAr": "جامعة العلوم والتكنولوجيا الأردنية",
+  "nameEn": "Jordan University of Science and Technology",
+  "city": "إربد",
+  "type": "public"
+ },
+ {
+  "id": "hu",
+  "nameAr": "الجامعة الهاشمية",
+  "nameEn": "Hashemite University",
+  "city": "الزرقاء",
+  "type": "public"
+ },
+ {
+  "id": "mutah",
+  "nameAr": "جامعة مؤتة",
+  "nameEn": "Mutah University",
+  "city": "الكرك",
+  "type": "public"
+ },
+ {
+  "id": "aabu",
+  "nameAr": "جامعة آل البيت",
+  "nameEn": "Al al-Bayt University",
+  "city": "المفرق",
+  "type": "public"
+ },
+ {
+  "id": "ahu",
+  "nameAr": "جامعة الحسين بن طلال",
+  "nameEn": "Al-Hussein Bin Talal University",
+  "city": "معان",
+  "type": "public"
+ },
+ {
+  "id": "ttu",
+  "nameAr": "جامعة الطفيلة التقنية",
+  "nameEn": "Tafila Technical University",
+  "city": "الطفيلة",
+  "type": "public"
+ },
+ {
+  "id": "bau",
+  "nameAr": "جامعة البلقاء التطبيقية (المركز)",
+  "nameEn": "Al-Balqa Applied University (Main Campus)",
+  "city": "السلط",
+  "type": "public"
+ },
+ {
+  "id": "isu",
+  "nameAr": "جامعة العلوم الإسلامية العالمية",
+  "nameEn": "World Islamic Sciences & Education University",
+  "city": "عمان",
+  "type": "public"
+ }
+]

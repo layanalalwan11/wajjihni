@@ -1,0 +1,8824 @@
+{
+ "meta": {
+  "schemaVersion": 1,
+  "academicYear": "2026/2027",
+  "retrievedOn": "2026-11-14",
+  "status": "DRAFT - verify before publishing",
+  "sources": [
+   {
+    "name": "tawjihiai.com/admissions/cutoffs",
+    "url": "https://tawjihiai.com/admissions/cutoffs",
+    "note": "جدول تجميعي (ليس رسمياً) لمعدلات القبول الموحد 2026/2027 مع التغيير عن 2025/2026"
+   },
+   {
+    "name": "جامعة مؤتة - أدنى معدلات القبول تنافسياً 2020-2025 (رسمي)",
+    "url": "https://www.mutah.edu.jo/ar/admission/SiteAssets/Lists/Announcements/EditForm/أدنى%20معدلات%20القبول%20تنافسيا2025_2026.pdf",
+    "note": "استُخدم للتحقق: أرقام 2025 المشتقة (2026 ناقص التغيير) طابقت الجدول الرسمي"
+   },
+   {
+    "name": "المملكة - نتائج القبول الموحد 2026/2027",
+    "url": "https://almamlakatv.com/news/210881-",
+    "note": "إعلان مسارين (أكاديمي ومهني) بمعدلات مستقلة وتخصيص 20% من المقاعد التنافسية للمسار المهني"
+   }
+  ],
+  "caveats": [
+   "المسار (أكاديمي/مهني) غير محدد في المصدر التجميعي؛ المعدلات تُفترض للمسار الأكاديمي حتى التحقق.",
+   "allowedStreams مستنتجة من قاعدة تقريبية حسب القطاع (انظر stream-rules.json) ويجب مطابقتها مع السياسة العامة للقبول الرسمية.",
+   "المعدلات لا تشمل الجامعة الألمانية الأردنية وجامعة الأميرة سمية (خارج القبول الموحد) ولا الجامعات الخاصة.",
+   "التصنيف field مولّد آلياً بكلمات مفتاحية ويحتاج مراجعة بشرية سريعة."
+  ]
+ },
+ "records": [
+  {
+   "universityId": "aabu",
+   "majorAr": "التمريض",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "ذكور",
+   "cutoff2026": 91.8,
+   "change": 5.75,
+   "cutoff2025Derived": 86.05,
+   "year": "2026/2027",
+   "id": 1
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "التمريض",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 90.6,
+   "change": 5.05,
+   "cutoff2025Derived": 85.55,
+   "year": "2026/2027",
+   "id": 2
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "العلاج الطبيعي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 90.2,
+   "change": 5.1,
+   "cutoff2025Derived": 85.1,
+   "year": "2026/2027",
+   "id": 3
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "العلاج التنفسي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.1,
+   "change": 3.8,
+   "cutoff2025Derived": 85.3,
+   "year": "2026/2027",
+   "id": 4
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "الحقوق",
+   "field": "law",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 88.9,
+   "change": 1.9,
+   "cutoff2025Derived": 87.0,
+   "year": "2026/2027",
+   "id": 5
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "العلوم الطبية المخبرية",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 88.6,
+   "change": 4.0,
+   "cutoff2025Derived": 84.6,
+   "year": "2026/2027",
+   "id": 6
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "تقنيات الأشعة الطبية",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.7,
+   "change": 3.35,
+   "cutoff2025Derived": 84.35,
+   "year": "2026/2027",
+   "id": 7
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "التقانات الحيوية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.5,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 8
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "التغذية السريرية والحميات",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.8,
+   "change": 4.25,
+   "cutoff2025Derived": 82.55,
+   "year": "2026/2027",
+   "id": 9
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "تكنولوجيا الكيمياء الصناعية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.3,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 10
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "علوم الحركة والرياضة التطبيقية",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.1,
+   "change": 0.6,
+   "cutoff2025Derived": 79.5,
+   "year": "2026/2027",
+   "id": 11
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "هندسة العمارة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.0,
+   "change": -8.9,
+   "cutoff2025Derived": 88.9,
+   "year": "2026/2027",
+   "id": 12
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "الهندسة الصناعية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.0,
+   "change": -8.15,
+   "cutoff2025Derived": 88.15,
+   "year": "2026/2027",
+   "id": 13
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "هندسة الطاقة المتجددة والمستدامة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.0,
+   "change": -6.55,
+   "cutoff2025Derived": 86.55,
+   "year": "2026/2027",
+   "id": 14
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "التربية البدنية",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.9,
+   "change": -1.3,
+   "cutoff2025Derived": 81.2,
+   "year": "2026/2027",
+   "id": 15
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "الامن السيبراني",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.3,
+   "change": -4.5,
+   "cutoff2025Derived": 83.8,
+   "year": "2026/2027",
+   "id": 16
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "علم البيانات والذكاء الاصطناعي",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.2,
+   "change": -4.25,
+   "cutoff2025Derived": 83.45,
+   "year": "2026/2027",
+   "id": 17
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "تكنولوجيا المعلومات والاعمال",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.1,
+   "change": -6.6,
+   "cutoff2025Derived": 85.7,
+   "year": "2026/2027",
+   "id": 18
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "علوم الأرض والبيئة التطبيقية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.3,
+   "change": 3.35,
+   "cutoff2025Derived": 74.95,
+   "year": "2026/2027",
+   "id": 19
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "تطوير تطبيقات الأجهزة الذكية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.6,
+   "change": -3.25,
+   "cutoff2025Derived": 80.85,
+   "year": "2026/2027",
+   "id": 20
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "دراسات في الأديان",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.5,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 21
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "نظم المعلومات الصحية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.4,
+   "change": -4.95,
+   "cutoff2025Derived": 80.35,
+   "year": "2026/2027",
+   "id": 22
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "المسح الجيولوجي والتنقيب عن الثروات الطبيعية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 73.5,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 23
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "الرياضيات التطبيقية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 72.45,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 24
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "معلم الصف",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 72.05,
+   "change": -9.8,
+   "cutoff2025Derived": 81.85,
+   "year": "2026/2027",
+   "id": 25
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "اللغة الانجليزية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 71.3,
+   "change": -13.6,
+   "cutoff2025Derived": 84.9,
+   "year": "2026/2027",
+   "id": 26
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "اسباني - انجليزي",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 68.1,
+   "change": -12.2,
+   "cutoff2025Derived": 80.3,
+   "year": "2026/2027",
+   "id": 27
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "التربية الخاصة",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 67.7,
+   "change": -12.1,
+   "cutoff2025Derived": 79.8,
+   "year": "2026/2027",
+   "id": 28
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "إدارة الأعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 67.05,
+   "change": -15.95,
+   "cutoff2025Derived": 83.0,
+   "year": "2026/2027",
+   "id": 29
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "التاريخ والحضارة",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 66.7,
+   "change": -10.05,
+   "cutoff2025Derived": 76.75,
+   "year": "2026/2027",
+   "id": 30
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "المحاسبة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 66.0,
+   "change": -16.5,
+   "cutoff2025Derived": 82.5,
+   "year": "2026/2027",
+   "id": 31
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "الإدارة اللوجستية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.85,
+   "change": -12.0,
+   "cutoff2025Derived": 77.85,
+   "year": "2026/2027",
+   "id": 32
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "إيطالي - انجليزي",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.3,
+   "change": -13.65,
+   "cutoff2025Derived": 78.95,
+   "year": "2026/2027",
+   "id": 33
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "تكنولوجيا مالية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.2,
+   "change": -15.7,
+   "cutoff2025Derived": 80.9,
+   "year": "2026/2027",
+   "id": 34
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "المحاسبة الإدارية وتحليل الاعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.15,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 35
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "الاقتصاد الرقمي",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.15,
+   "change": -15.25,
+   "cutoff2025Derived": 80.4,
+   "year": "2026/2027",
+   "id": 36
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "التأمين وإدارة المخاطر",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.05,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 37
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "محاسبة وقانون الأعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.05,
+   "change": -15.15,
+   "cutoff2025Derived": 80.2,
+   "year": "2026/2027",
+   "id": 38
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "جغرافيا تطبيقية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.05,
+   "change": -9.95,
+   "cutoff2025Derived": 75.0,
+   "year": "2026/2027",
+   "id": 39
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "التمويل والمصارف",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -14.5,
+   "cutoff2025Derived": 79.5,
+   "year": "2026/2027",
+   "id": 40
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "النظم المحاسبية وتحليل الأعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -15.7,
+   "cutoff2025Derived": 80.7,
+   "year": "2026/2027",
+   "id": 41
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "ذكاء الأعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 42
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "التدقيق والمحاسبة الدولية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -14.3,
+   "cutoff2025Derived": 79.3,
+   "year": "2026/2027",
+   "id": 43
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "التسويق الرقمي",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -18.95,
+   "cutoff2025Derived": 83.95,
+   "year": "2026/2027",
+   "id": 44
+  },
+  {
+   "universityId": "aabu",
+   "majorAr": "اللغة والأدب / فرنسي-إنجليزي",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -14.5,
+   "cutoff2025Derived": 79.5,
+   "year": "2026/2027",
+   "id": 45
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "العلاج الطبيعي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 88.3,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 46
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "تمريض",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.5,
+   "change": 1.8,
+   "cutoff2025Derived": 85.7,
+   "year": "2026/2027",
+   "id": 47
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "التصوير الاشعاعي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.7,
+   "change": 2.45,
+   "cutoff2025Derived": 84.25,
+   "year": "2026/2027",
+   "id": 48
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "التحاليل الطبية",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.3,
+   "change": 3.9,
+   "cutoff2025Derived": 82.4,
+   "year": "2026/2027",
+   "id": 49
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "القانون",
+   "field": "law",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.03,
+   "change": 3.53,
+   "cutoff2025Derived": 81.5,
+   "year": "2026/2027",
+   "id": 50
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الهندسة الكهربائية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.75,
+   "change": 1.7,
+   "cutoff2025Derived": 80.05,
+   "year": "2026/2027",
+   "id": 51
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "هندسة الطاقة المتجددة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.2,
+   "change": 1.2,
+   "cutoff2025Derived": 80.0,
+   "year": "2026/2027",
+   "id": 52
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "هندسة امن الشبكات والمعلومات",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.85,
+   "change": 0.85,
+   "cutoff2025Derived": 80.0,
+   "year": "2026/2027",
+   "id": 53
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الهندسة الميكانيكية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.8,
+   "change": 0.6,
+   "cutoff2025Derived": 80.2,
+   "year": "2026/2027",
+   "id": 54
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "هندسة الحاسوب",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.15,
+   "change": -1.65,
+   "cutoff2025Derived": 81.8,
+   "year": "2026/2027",
+   "id": 55
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الهندسة المدنية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.0,
+   "change": 0.0,
+   "cutoff2025Derived": 80.0,
+   "year": "2026/2027",
+   "id": 56
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "العلوم الحياتية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.0,
+   "change": 3.35,
+   "cutoff2025Derived": 76.65,
+   "year": "2026/2027",
+   "id": 57
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الكيمياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.6,
+   "change": 4.55,
+   "cutoff2025Derived": 75.05,
+   "year": "2026/2027",
+   "id": 58
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الدراسات الاسلامية",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.5,
+   "change": 4.1,
+   "cutoff2025Derived": 75.4,
+   "year": "2026/2027",
+   "id": 59
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "هندسة البرمجيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.1,
+   "change": -3.45,
+   "cutoff2025Derived": 81.55,
+   "year": "2026/2027",
+   "id": 60
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "علم الحاسوب",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.0,
+   "change": -2.4,
+   "cutoff2025Derived": 80.4,
+   "year": "2026/2027",
+   "id": 61
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الامن السيبراني والحوسبة السحابية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.7,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 62
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "علم البيانات والذكاء الاصطناعي",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.1,
+   "change": -3.35,
+   "cutoff2025Derived": 80.45,
+   "year": "2026/2027",
+   "id": 63
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "نظم المعلومات الحاسوبية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.1,
+   "change": -4.35,
+   "cutoff2025Derived": 79.45,
+   "year": "2026/2027",
+   "id": 64
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "تكنولوجيا المركبات الكهربائية والهجينة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 73.4,
+   "change": -4.7,
+   "cutoff2025Derived": 78.1,
+   "year": "2026/2027",
+   "id": 65
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "تكنولوجيا العمليات المستدامة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 70.4,
+   "change": -1.1,
+   "cutoff2025Derived": 71.5,
+   "year": "2026/2027",
+   "id": 66
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "تكنولوجيا إنشاء المباني والطرق",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 70.0,
+   "change": -4.45,
+   "cutoff2025Derived": 74.45,
+   "year": "2026/2027",
+   "id": 67
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الرياضيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 67.85,
+   "change": -3.9,
+   "cutoff2025Derived": 71.75,
+   "year": "2026/2027",
+   "id": 68
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الإدارة السياحية / الارشاد السياحي",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 66.45,
+   "change": -3.8,
+   "cutoff2025Derived": 70.25,
+   "year": "2026/2027",
+   "id": 69
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "التاريخ",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.9,
+   "change": -8.6,
+   "cutoff2025Derived": 74.5,
+   "year": "2026/2027",
+   "id": 70
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الإدارة السياحية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.75,
+   "change": -4.2,
+   "cutoff2025Derived": 69.95,
+   "year": "2026/2027",
+   "id": 71
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "العلاقات الدولية والدراسات الاستراتيجية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.6,
+   "change": -12.2,
+   "cutoff2025Derived": 77.8,
+   "year": "2026/2027",
+   "id": 72
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الآثار",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.6,
+   "change": -4.25,
+   "cutoff2025Derived": 69.85,
+   "year": "2026/2027",
+   "id": 73
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "نظم المعلومات الادارية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.55,
+   "change": -12.15,
+   "cutoff2025Derived": 77.7,
+   "year": "2026/2027",
+   "id": 74
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الإدارة اللوجستية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.4,
+   "change": -8.85,
+   "cutoff2025Derived": 74.25,
+   "year": "2026/2027",
+   "id": 75
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "اللغة الانجليزية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.4,
+   "change": -10.1,
+   "cutoff2025Derived": 75.5,
+   "year": "2026/2027",
+   "id": 76
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "العلوم المالية والمصرفية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.3,
+   "change": -8.3,
+   "cutoff2025Derived": 73.6,
+   "year": "2026/2027",
+   "id": 77
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "رياض الأطفال",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 65.3,
+   "change": -7.5,
+   "cutoff2025Derived": 72.8,
+   "year": "2026/2027",
+   "id": 78
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "إدارة الأعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.2,
+   "change": -13.75,
+   "cutoff2025Derived": 78.95,
+   "year": "2026/2027",
+   "id": 79
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "علم المكتبات وتكنولوجيا المعلومات(متكامل)",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.1,
+   "change": -10.95,
+   "cutoff2025Derived": 76.05,
+   "year": "2026/2027",
+   "id": 80
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "التربية الخاصة",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.1,
+   "change": -9.0,
+   "cutoff2025Derived": 74.1,
+   "year": "2026/2027",
+   "id": 81
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "المحاسبة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.05,
+   "change": -11.0,
+   "cutoff2025Derived": 76.05,
+   "year": "2026/2027",
+   "id": 82
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "اللغة العربية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.05,
+   "change": -5.9,
+   "cutoff2025Derived": 70.95,
+   "year": "2026/2027",
+   "id": 83
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الجغرافيا",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.05,
+   "change": -7.85,
+   "cutoff2025Derived": 72.9,
+   "year": "2026/2027",
+   "id": 84
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الفيزياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -4.5,
+   "cutoff2025Derived": 69.5,
+   "year": "2026/2027",
+   "id": 85
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "معلم الصف",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 65.0,
+   "change": -11.0,
+   "cutoff2025Derived": 76.0,
+   "year": "2026/2027",
+   "id": 86
+  },
+  {
+   "universityId": "ahu",
+   "majorAr": "الإدارة الفندقية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -6.15,
+   "cutoff2025Derived": 71.15,
+   "year": "2026/2027",
+   "id": 87
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "دكتور في الطب",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 97.9,
+   "change": 1.1,
+   "cutoff2025Derived": 96.8,
+   "year": "2026/2027",
+   "id": 88
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "تكنولوجيا الاشعة الطبية",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 90.2,
+   "change": 3.2,
+   "cutoff2025Derived": 87.0,
+   "year": "2026/2027",
+   "id": 89
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "العلوم الطبية المخبرية",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.7,
+   "change": 2.0,
+   "cutoff2025Derived": 87.7,
+   "year": "2026/2027",
+   "id": 90
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "هندسة البرمجيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.4,
+   "change": -2.65,
+   "cutoff2025Derived": 92.05,
+   "year": "2026/2027",
+   "id": 91
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "القانون",
+   "field": "law",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 88.6,
+   "change": -3.0,
+   "cutoff2025Derived": 91.6,
+   "year": "2026/2027",
+   "id": 92
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "التغذية والتصنيع الغذائي",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 88.5,
+   "change": -1.95,
+   "cutoff2025Derived": 90.45,
+   "year": "2026/2027",
+   "id": 93
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "نظم المعلومات الحاسوبية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.4,
+   "change": -1.3,
+   "cutoff2025Derived": 88.7,
+   "year": "2026/2027",
+   "id": 94
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الذكاء الإصطناعي والروبوتات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.9,
+   "change": -3.1,
+   "cutoff2025Derived": 90.0,
+   "year": "2026/2027",
+   "id": 95
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الهندسة الصناعية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.1,
+   "change": -6.25,
+   "cutoff2025Derived": 92.35,
+   "year": "2026/2027",
+   "id": 96
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "أمن المعلومات والفضاء الالكتروني",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.7,
+   "change": -2.4,
+   "cutoff2025Derived": 88.1,
+   "year": "2026/2027",
+   "id": 97
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الكيمياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.7,
+   "change": 4.35,
+   "cutoff2025Derived": 81.35,
+   "year": "2026/2027",
+   "id": 98
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "القبالة والعناية بحديثي الولادة",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.6,
+   "change": 2.5,
+   "cutoff2025Derived": 83.1,
+   "year": "2026/2027",
+   "id": 99
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "العلوم الحياتية التطبيقية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.0,
+   "change": 2.75,
+   "cutoff2025Derived": 82.25,
+   "year": "2026/2027",
+   "id": 100
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الهندسة الكهربائية / الحاسوب",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 84.4,
+   "change": -7.4,
+   "cutoff2025Derived": 91.8,
+   "year": "2026/2027",
+   "id": 101
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "التربية البدنية والصحية",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 83.2,
+   "change": -0.2,
+   "cutoff2025Derived": 83.4,
+   "year": "2026/2027",
+   "id": 102
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "تقنيات الإنتاج التلفزيوني والاخراج",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 82.8,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 103
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الهندسة المدنية / الانشاءات",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.6,
+   "change": -1.45,
+   "cutoff2025Derived": 82.05,
+   "year": "2026/2027",
+   "id": 104
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "هندسة المواد",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.6,
+   "change": 0.6,
+   "cutoff2025Derived": 80.0,
+   "year": "2026/2027",
+   "id": 105
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الهندسة المدنية / مساحة وجيوماتكس",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.3,
+   "change": -0.2,
+   "cutoff2025Derived": 80.5,
+   "year": "2026/2027",
+   "id": 106
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "تكنولوجيا الزراعة العضوية الذكية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 80.3,
+   "change": -0.6,
+   "cutoff2025Derived": 80.9,
+   "year": "2026/2027",
+   "id": 107
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "هندسة العمارة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.25,
+   "change": -8.3,
+   "cutoff2025Derived": 88.55,
+   "year": "2026/2027",
+   "id": 108
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الهندسة الكهربائية / القوى الكهربائية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.2,
+   "change": -4.95,
+   "cutoff2025Derived": 85.15,
+   "year": "2026/2027",
+   "id": 109
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "التحقيقات الجنائية والرقمية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.9,
+   "change": -2.15,
+   "cutoff2025Derived": 81.05,
+   "year": "2026/2027",
+   "id": 110
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "التقنيات الحيوية الزراعية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.6,
+   "change": -3.8,
+   "cutoff2025Derived": 81.4,
+   "year": "2026/2027",
+   "id": 111
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "إنتاج ووقاية النبات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.4,
+   "change": -1.35,
+   "cutoff2025Derived": 78.75,
+   "year": "2026/2027",
+   "id": 112
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الترجمة التطبيقية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.4,
+   "change": -9.9,
+   "cutoff2025Derived": 87.3,
+   "year": "2026/2027",
+   "id": 113
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "إدارة موارد المياه والبيئة",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.2,
+   "change": -1.45,
+   "cutoff2025Derived": 78.65,
+   "year": "2026/2027",
+   "id": 114
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "اللغة الانجليزية وادابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.9,
+   "change": -13.15,
+   "cutoff2025Derived": 89.05,
+   "year": "2026/2027",
+   "id": 115
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الإعلام الرقمي",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.5,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 116
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الرياضيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 72.6,
+   "change": -4.5,
+   "cutoff2025Derived": 77.1,
+   "year": "2026/2027",
+   "id": 117
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الادارة الضريبية والجمركية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 71.15,
+   "change": -14.65,
+   "cutoff2025Derived": 85.8,
+   "year": "2026/2027",
+   "id": 118
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "إدارة الأعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 70.4,
+   "change": -16.5,
+   "cutoff2025Derived": 86.9,
+   "year": "2026/2027",
+   "id": 119
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "نظم المعلومات الإدارية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 70.4,
+   "change": -18.7,
+   "cutoff2025Derived": 89.1,
+   "year": "2026/2027",
+   "id": 120
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "التسويق",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 70.2,
+   "change": -17.05,
+   "cutoff2025Derived": 87.25,
+   "year": "2026/2027",
+   "id": 121
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الطفولة المبكرة",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 70.1,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 122
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "المحاسبة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 69.85,
+   "change": -19.55,
+   "cutoff2025Derived": 89.4,
+   "year": "2026/2027",
+   "id": 123
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "إدارة المكتبات والمعلومات",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 69.5,
+   "change": -14.05,
+   "cutoff2025Derived": 83.55,
+   "year": "2026/2027",
+   "id": 124
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الفيزياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 68.9,
+   "change": -8.3,
+   "cutoff2025Derived": 77.2,
+   "year": "2026/2027",
+   "id": 125
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "نظم المعلومات المحاسبية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 68.0,
+   "change": -18.8,
+   "cutoff2025Derived": 86.8,
+   "year": "2026/2027",
+   "id": 126
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "العلوم المالية والمصرفية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 67.8,
+   "change": -18.4,
+   "cutoff2025Derived": 86.2,
+   "year": "2026/2027",
+   "id": 127
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "اللغة العربية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 67.8,
+   "change": -17.65,
+   "cutoff2025Derived": 85.45,
+   "year": "2026/2027",
+   "id": 128
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "تخطيط وادارة المشاريع",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 67.7,
+   "change": -17.35,
+   "cutoff2025Derived": 85.05,
+   "year": "2026/2027",
+   "id": 129
+  },
+  {
+   "universityId": "bau",
+   "majorAr": "الاقتصاد",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.1,
+   "change": -19.5,
+   "cutoff2025Derived": 84.6,
+   "year": "2026/2027",
+   "id": 130
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "دكتور في الطب",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 98.4,
+   "change": 1.0,
+   "cutoff2025Derived": 97.4,
+   "year": "2026/2027",
+   "id": 131
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "دكتور في طب الأسنان",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 97.55,
+   "change": 0.9,
+   "cutoff2025Derived": 96.65,
+   "year": "2026/2027",
+   "id": 132
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الصيدلة",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 95.8,
+   "change": 0.9,
+   "cutoff2025Derived": 94.9,
+   "year": "2026/2027",
+   "id": 133
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "علم التمريض",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "ذكور",
+   "cutoff2026": 94.0,
+   "change": 3.1,
+   "cutoff2025Derived": 90.9,
+   "year": "2026/2027",
+   "id": 134
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "العلاج الطبيعي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 93.7,
+   "change": 2.85,
+   "cutoff2025Derived": 90.85,
+   "year": "2026/2027",
+   "id": 135
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "علم التمريض",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "اناث",
+   "cutoff2026": 93.6,
+   "change": 3.95,
+   "cutoff2025Derived": 89.65,
+   "year": "2026/2027",
+   "id": 136
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "العلاج الوظيفي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.8,
+   "change": 3.45,
+   "cutoff2025Derived": 89.35,
+   "year": "2026/2027",
+   "id": 137
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "التغذية السريرية والحميات",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.1,
+   "change": 3.2,
+   "cutoff2025Derived": 88.9,
+   "year": "2026/2027",
+   "id": 138
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "التصوير الطبي والاشعاعي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.0,
+   "change": 2.15,
+   "cutoff2025Derived": 89.85,
+   "year": "2026/2027",
+   "id": 139
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "علم الحاسوب وتطبيقاته",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.9,
+   "change": -2.15,
+   "cutoff2025Derived": 94.05,
+   "year": "2026/2027",
+   "id": 140
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الهندسة الصناعية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.0,
+   "change": -2.25,
+   "cutoff2025Derived": 93.25,
+   "year": "2026/2027",
+   "id": 141
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "هندسة البرمجيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.0,
+   "change": -2.5,
+   "cutoff2025Derived": 93.5,
+   "year": "2026/2027",
+   "id": 142
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "العلوم الطبية المخبرية",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 90.7,
+   "change": 1.65,
+   "cutoff2025Derived": 89.05,
+   "year": "2026/2027",
+   "id": 143
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "هندسة الحاسوب",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 90.6,
+   "change": -5.1,
+   "cutoff2025Derived": 95.7,
+   "year": "2026/2027",
+   "id": 144
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "التكنولوجيا الحيوية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.7,
+   "change": 3.25,
+   "cutoff2025Derived": 86.45,
+   "year": "2026/2027",
+   "id": 145
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "علم البيانات والذكاء الاصطناعي",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.3,
+   "change": -3.75,
+   "cutoff2025Derived": 93.05,
+   "year": "2026/2027",
+   "id": 146
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "هندسة الميكاترونكس",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 88.8,
+   "change": -4.3,
+   "cutoff2025Derived": 93.1,
+   "year": "2026/2027",
+   "id": 147
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الأمن السيبراني",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.9,
+   "change": -4.35,
+   "cutoff2025Derived": 92.25,
+   "year": "2026/2027",
+   "id": 148
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الكيمياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.7,
+   "change": 3.2,
+   "cutoff2025Derived": 84.5,
+   "year": "2026/2027",
+   "id": 149
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "العلوم الحياتية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.2,
+   "change": 1.9,
+   "cutoff2025Derived": 85.3,
+   "year": "2026/2027",
+   "id": 150
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "تكنولوجيا معلومات الأعمال",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.7,
+   "change": -2.4,
+   "cutoff2025Derived": 89.1,
+   "year": "2026/2027",
+   "id": 151
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "اللغة الانجليزية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.7,
+   "change": -6.15,
+   "cutoff2025Derived": 91.85,
+   "year": "2026/2027",
+   "id": 152
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "التأهيل الرياضي",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.4,
+   "change": 4.9,
+   "cutoff2025Derived": 80.5,
+   "year": "2026/2027",
+   "id": 153
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الهندسة الميكانيكية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.0,
+   "change": -4.5,
+   "cutoff2025Derived": 89.5,
+   "year": "2026/2027",
+   "id": 154
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "التسويق الرقمي",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 84.8,
+   "change": -8.85,
+   "cutoff2025Derived": 93.65,
+   "year": "2026/2027",
+   "id": 155
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "نظم المعلومات الإدارية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 84.6,
+   "change": -8.27,
+   "cutoff2025Derived": 92.87,
+   "year": "2026/2027",
+   "id": 156
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الادارة والتدريب الرياضي",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 83.7,
+   "change": -2.35,
+   "cutoff2025Derived": 86.05,
+   "year": "2026/2027",
+   "id": 157
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "معلم الصف",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 83.2,
+   "change": -3.6,
+   "cutoff2025Derived": 86.8,
+   "year": "2026/2027",
+   "id": 158
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الارشاد النفسي",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 83.1,
+   "change": -3.15,
+   "cutoff2025Derived": 86.25,
+   "year": "2026/2027",
+   "id": 159
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الهندسة الكهربائية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 82.8,
+   "change": -7.95,
+   "cutoff2025Derived": 90.75,
+   "year": "2026/2027",
+   "id": 160
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الهندسة الطبية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.7,
+   "change": -11.95,
+   "cutoff2025Derived": 93.65,
+   "year": "2026/2027",
+   "id": 161
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الجيولوجيا و البيئة",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.2,
+   "change": 2.85,
+   "cutoff2025Derived": 77.35,
+   "year": "2026/2027",
+   "id": 162
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "إدارة الأعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.1,
+   "change": -10.1,
+   "cutoff2025Derived": 90.2,
+   "year": "2026/2027",
+   "id": 163
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الهندسة المدنية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.05,
+   "change": -4.4,
+   "cutoff2025Derived": 84.45,
+   "year": "2026/2027",
+   "id": 164
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "هندسة العمارة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.0,
+   "change": -11.0,
+   "cutoff2025Derived": 91.0,
+   "year": "2026/2027",
+   "id": 165
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الرياضيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.7,
+   "change": -6.9,
+   "cutoff2025Derived": 86.6,
+   "year": "2026/2027",
+   "id": 166
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "العلاقات الدولية والدراسات الاستراتيجية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.5,
+   "change": -5.73,
+   "cutoff2025Derived": 85.23,
+   "year": "2026/2027",
+   "id": 167
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "إدارة الأراضي والمياه",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.6,
+   "change": 2.8,
+   "cutoff2025Derived": 75.8,
+   "year": "2026/2027",
+   "id": 168
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "إدارة المخاطر والتأمين",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.4,
+   "change": -4.1,
+   "cutoff2025Derived": 82.5,
+   "year": "2026/2027",
+   "id": 169
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "المحاسبة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.2,
+   "change": -13.2,
+   "cutoff2025Derived": 91.4,
+   "year": "2026/2027",
+   "id": 170
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "إدارة المياه والبيئة",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.1,
+   "change": 2.2,
+   "cutoff2025Derived": 75.9,
+   "year": "2026/2027",
+   "id": 171
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الفيزياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.3,
+   "change": -4.4,
+   "cutoff2025Derived": 81.7,
+   "year": "2026/2027",
+   "id": 172
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الاقتصاد المالي",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 76.1,
+   "change": -1.55,
+   "cutoff2025Derived": 77.65,
+   "year": "2026/2027",
+   "id": 173
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "تربية الطفولة المبكرة",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 75.8,
+   "change": -9.5,
+   "cutoff2025Derived": 85.3,
+   "year": "2026/2027",
+   "id": 174
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "اللغة العربية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.7,
+   "change": -13.55,
+   "cutoff2025Derived": 89.25,
+   "year": "2026/2027",
+   "id": 175
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "التربية الخاصة",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 74.6,
+   "change": -10.15,
+   "cutoff2025Derived": 84.75,
+   "year": "2026/2027",
+   "id": 176
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الأدب والدراسات الثقافية باللغة الإنجليزية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 74.5,
+   "change": -12.4,
+   "cutoff2025Derived": 86.9,
+   "year": "2026/2027",
+   "id": 177
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "العلوم المالية والمصرفية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 73.0,
+   "change": -16.35,
+   "cutoff2025Derived": 89.35,
+   "year": "2026/2027",
+   "id": 178
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "معلم التربية الفنية",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 73.0,
+   "change": -10.65,
+   "cutoff2025Derived": 83.65,
+   "year": "2026/2027",
+   "id": 179
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الاقتصاد",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 70.25,
+   "change": -18.25,
+   "cutoff2025Derived": 88.5,
+   "year": "2026/2027",
+   "id": 180
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "المحاسبة والقانون التجاري",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 69.65,
+   "change": -20.05,
+   "cutoff2025Derived": 89.7,
+   "year": "2026/2027",
+   "id": 181
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "إدارة الموارد التراثية والمتاحف",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 68.6,
+   "change": -3.7,
+   "cutoff2025Derived": 72.3,
+   "year": "2026/2027",
+   "id": 182
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "الادارة السياحية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 68.55,
+   "change": -15.85,
+   "cutoff2025Derived": 84.4,
+   "year": "2026/2027",
+   "id": 183
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "علم المحافظة على الآثار",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 68.2,
+   "change": -4.4,
+   "cutoff2025Derived": 72.6,
+   "year": "2026/2027",
+   "id": 184
+  },
+  {
+   "universityId": "hu",
+   "majorAr": "إدارة الفنادق",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 66.5,
+   "change": -20.2,
+   "cutoff2025Derived": 86.7,
+   "year": "2026/2027",
+   "id": 185
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "القانون",
+   "field": "law",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 90.6,
+   "change": 3.65,
+   "cutoff2025Derived": 86.95,
+   "year": "2026/2027",
+   "id": 186
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "علم الحاسوب",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.4,
+   "change": -0.85,
+   "cutoff2025Derived": 87.25,
+   "year": "2026/2027",
+   "id": 187
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "القضاء والإفتاء",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.2,
+   "change": 6.2,
+   "cutoff2025Derived": 80.0,
+   "year": "2026/2027",
+   "id": 188
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "المصارف الإسلامية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.0,
+   "change": 3.15,
+   "cutoff2025Derived": 82.85,
+   "year": "2026/2027",
+   "id": 189
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "الفقه وأصوله",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.2,
+   "change": 1.7,
+   "cutoff2025Derived": 83.5,
+   "year": "2026/2027",
+   "id": 190
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "هندسة البرمجيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.2,
+   "change": -1.45,
+   "cutoff2025Derived": 86.65,
+   "year": "2026/2027",
+   "id": 191
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "الكيمياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.2,
+   "change": 5.35,
+   "cutoff2025Derived": 79.85,
+   "year": "2026/2027",
+   "id": 192
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "أصول الدين",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 83.7,
+   "change": 6.6,
+   "cutoff2025Derived": 77.1,
+   "year": "2026/2027",
+   "id": 193
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "الاصلاح والوفاق الأسري الشرعي",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.8,
+   "change": 6.8,
+   "cutoff2025Derived": 75.0,
+   "year": "2026/2027",
+   "id": 194
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "أمن وسرية الشبكات والمعلومات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.2,
+   "change": -1.15,
+   "cutoff2025Derived": 82.35,
+   "year": "2026/2027",
+   "id": 195
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "الفنون الإسلامية والتطبيقية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.8,
+   "change": 1.05,
+   "cutoff2025Derived": 79.75,
+   "year": "2026/2027",
+   "id": 196
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "نظم شبكات الحاسوب",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.1,
+   "change": -1.45,
+   "cutoff2025Derived": 81.55,
+   "year": "2026/2027",
+   "id": 197
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "اللغة الإنجليزية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.6,
+   "change": -8.65,
+   "cutoff2025Derived": 86.25,
+   "year": "2026/2027",
+   "id": 198
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "الإرشاد والصحة النفسية",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 76.4,
+   "change": -7.55,
+   "cutoff2025Derived": 83.95,
+   "year": "2026/2027",
+   "id": 199
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "الفقه الشافعي",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 76.15,
+   "change": 1.15,
+   "cutoff2025Derived": 75.0,
+   "year": "2026/2027",
+   "id": 200
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "القراءات والدراسات القرآنية",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.8,
+   "change": 0.65,
+   "cutoff2025Derived": 75.15,
+   "year": "2026/2027",
+   "id": 201
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "الرياضيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.6,
+   "change": -4.05,
+   "cutoff2025Derived": 79.65,
+   "year": "2026/2027",
+   "id": 202
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "الأداء الصوتي والتجويد",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.0,
+   "change": -0.25,
+   "cutoff2025Derived": 75.25,
+   "year": "2026/2027",
+   "id": 203
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "الفقه الحنفي",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.0,
+   "change": -0.15,
+   "cutoff2025Derived": 75.15,
+   "year": "2026/2027",
+   "id": 204
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "الفقه المالكي",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.0,
+   "change": -0.05,
+   "cutoff2025Derived": 75.05,
+   "year": "2026/2027",
+   "id": 205
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "معلم الصف",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 75.0,
+   "change": -8.75,
+   "cutoff2025Derived": 83.75,
+   "year": "2026/2027",
+   "id": 206
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "التربية الخاصة",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 70.45,
+   "change": -10.3,
+   "cutoff2025Derived": 80.75,
+   "year": "2026/2027",
+   "id": 207
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "إدارة الأعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 68.6,
+   "change": -14.6,
+   "cutoff2025Derived": 83.2,
+   "year": "2026/2027",
+   "id": 208
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "تربية الطفولة المبكرة",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 67.9,
+   "change": -11.1,
+   "cutoff2025Derived": 79.0,
+   "year": "2026/2027",
+   "id": 209
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "المحاسبة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 67.65,
+   "change": -17.3,
+   "cutoff2025Derived": 84.95,
+   "year": "2026/2027",
+   "id": 210
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "اللغة العربية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 66.2,
+   "change": -15.2,
+   "cutoff2025Derived": 81.4,
+   "year": "2026/2027",
+   "id": 211
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "نظم المعلومات الإدارية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 66.1,
+   "change": -18.75,
+   "cutoff2025Derived": 84.85,
+   "year": "2026/2027",
+   "id": 212
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "التاريخ والحضارة الإسلامية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.1,
+   "change": -11.9,
+   "cutoff2025Derived": 77.0,
+   "year": "2026/2027",
+   "id": 213
+  },
+  {
+   "universityId": "isu",
+   "majorAr": "العلوم المالية والمصرفية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.05,
+   "change": -18.7,
+   "cutoff2025Derived": 83.75,
+   "year": "2026/2027",
+   "id": 214
+  },
+  {
+   "universityId": "just",
+   "majorAr": "دكتور في الطب",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 99.0,
+   "change": 1.3,
+   "cutoff2025Derived": 97.7,
+   "year": "2026/2027",
+   "id": 215
+  },
+  {
+   "universityId": "just",
+   "majorAr": "دكتور في طب الأسنان",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 98.2,
+   "change": 1.0,
+   "cutoff2025Derived": 97.2,
+   "year": "2026/2027",
+   "id": 216
+  },
+  {
+   "universityId": "just",
+   "majorAr": "دكتور صيدلة",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 97.0,
+   "change": 1.15,
+   "cutoff2025Derived": 95.85,
+   "year": "2026/2027",
+   "id": 217
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الصيدلة",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 96.4,
+   "change": 1.25,
+   "cutoff2025Derived": 95.15,
+   "year": "2026/2027",
+   "id": 218
+  },
+  {
+   "universityId": "just",
+   "majorAr": "تكنولوجيا التخدير",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 94.8,
+   "change": 3.75,
+   "cutoff2025Derived": 91.05,
+   "year": "2026/2027",
+   "id": 219
+  },
+  {
+   "universityId": "just",
+   "majorAr": "التمريض",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "ذكور",
+   "cutoff2026": 94.5,
+   "change": 4.15,
+   "cutoff2025Derived": 90.35,
+   "year": "2026/2027",
+   "id": 220
+  },
+  {
+   "universityId": "just",
+   "majorAr": "علوم الحاسوب",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 94.5,
+   "change": -0.6,
+   "cutoff2025Derived": 95.1,
+   "year": "2026/2027",
+   "id": 221
+  },
+  {
+   "universityId": "just",
+   "majorAr": "العلاج الطبيعي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 94.3,
+   "change": 4.55,
+   "cutoff2025Derived": 89.75,
+   "year": "2026/2027",
+   "id": 222
+  },
+  {
+   "universityId": "just",
+   "majorAr": "التصنيع الدوائي والبيولوجي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 94.2,
+   "change": 2.5,
+   "cutoff2025Derived": 91.7,
+   "year": "2026/2027",
+   "id": 223
+  },
+  {
+   "universityId": "just",
+   "majorAr": "التمريض",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 94.0,
+   "change": 3.95,
+   "cutoff2025Derived": 90.05,
+   "year": "2026/2027",
+   "id": 224
+  },
+  {
+   "universityId": "just",
+   "majorAr": "التقانات الحيوية والهندسة الوراثية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 93.8,
+   "change": 6.4,
+   "cutoff2025Derived": 87.4,
+   "year": "2026/2027",
+   "id": 225
+  },
+  {
+   "universityId": "just",
+   "majorAr": "العلاج التنفسي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 93.6,
+   "change": 3.6,
+   "cutoff2025Derived": 90.0,
+   "year": "2026/2027",
+   "id": 226
+  },
+  {
+   "universityId": "just",
+   "majorAr": "دكتور في الطب البيطري",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 93.2,
+   "change": 2.7,
+   "cutoff2025Derived": 90.5,
+   "year": "2026/2027",
+   "id": 227
+  },
+  {
+   "universityId": "just",
+   "majorAr": "هندسة الحاسوب",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.7,
+   "change": -3.1,
+   "cutoff2025Derived": 95.8,
+   "year": "2026/2027",
+   "id": 228
+  },
+  {
+   "universityId": "just",
+   "majorAr": "هندسة الطيران",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.7,
+   "change": -1.75,
+   "cutoff2025Derived": 94.45,
+   "year": "2026/2027",
+   "id": 229
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الهندسة الصناعية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.5,
+   "change": -1.75,
+   "cutoff2025Derived": 94.25,
+   "year": "2026/2027",
+   "id": 230
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الهندسة الكهربائية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.2,
+   "change": 2.4,
+   "cutoff2025Derived": 89.8,
+   "year": "2026/2027",
+   "id": 231
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الهندسة الميكانيكية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.1,
+   "change": 0.85,
+   "cutoff2025Derived": 91.25,
+   "year": "2026/2027",
+   "id": 232
+  },
+  {
+   "universityId": "just",
+   "majorAr": "التكنولوجيا الرقمية في صناعة الاسنان",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.1,
+   "change": 5.75,
+   "cutoff2025Derived": 86.35,
+   "year": "2026/2027",
+   "id": 233
+  },
+  {
+   "universityId": "just",
+   "majorAr": "علم التجميل التطبيقي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.9,
+   "change": 6.43,
+   "cutoff2025Derived": 85.47,
+   "year": "2026/2027",
+   "id": 234
+  },
+  {
+   "universityId": "just",
+   "majorAr": "العلاج الوظيفي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.6,
+   "change": 3.2,
+   "cutoff2025Derived": 88.4,
+   "year": "2026/2027",
+   "id": 235
+  },
+  {
+   "universityId": "just",
+   "majorAr": "تكنولوجيا الأشعة",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.6,
+   "change": 3.1,
+   "cutoff2025Derived": 88.5,
+   "year": "2026/2027",
+   "id": 236
+  },
+  {
+   "universityId": "just",
+   "majorAr": "البصريات",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.5,
+   "change": 4.2,
+   "cutoff2025Derived": 87.3,
+   "year": "2026/2027",
+   "id": 237
+  },
+  {
+   "universityId": "just",
+   "majorAr": "هندسة البرمجيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.3,
+   "change": -2.3,
+   "cutoff2025Derived": 93.6,
+   "year": "2026/2027",
+   "id": 238
+  },
+  {
+   "universityId": "just",
+   "majorAr": "العلوم الطبية المخبرية",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.0,
+   "change": 2.0,
+   "cutoff2025Derived": 89.0,
+   "year": "2026/2027",
+   "id": 239
+  },
+  {
+   "universityId": "just",
+   "majorAr": "السمع والنطق",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 90.8,
+   "change": 3.8,
+   "cutoff2025Derived": 87.0,
+   "year": "2026/2027",
+   "id": 240
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الإسعاف والطوارئ",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.9,
+   "change": 3.65,
+   "cutoff2025Derived": 86.25,
+   "year": "2026/2027",
+   "id": 241
+  },
+  {
+   "universityId": "just",
+   "majorAr": "فني صحة الفم والأسنان",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.3,
+   "change": 4.25,
+   "cutoff2025Derived": 85.05,
+   "year": "2026/2027",
+   "id": 242
+  },
+  {
+   "universityId": "just",
+   "majorAr": "القبالة",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 89.1,
+   "change": 4.05,
+   "cutoff2025Derived": 85.05,
+   "year": "2026/2027",
+   "id": 243
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الادارة والسياسات الصحية",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.0,
+   "change": 4.85,
+   "cutoff2025Derived": 84.15,
+   "year": "2026/2027",
+   "id": 244
+  },
+  {
+   "universityId": "just",
+   "majorAr": "التغذية السريرية",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 88.8,
+   "change": -2.25,
+   "cutoff2025Derived": 91.05,
+   "year": "2026/2027",
+   "id": 245
+  },
+  {
+   "universityId": "just",
+   "majorAr": "علم النفس السريري",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.6,
+   "change": 6.85,
+   "cutoff2025Derived": 80.75,
+   "year": "2026/2027",
+   "id": 246
+  },
+  {
+   "universityId": "just",
+   "majorAr": "هندسة وأمن شبكات الحاسوب",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.2,
+   "change": -5.35,
+   "cutoff2025Derived": 92.55,
+   "year": "2026/2027",
+   "id": 247
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الكيمياء التطبيقية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.0,
+   "change": 3.5,
+   "cutoff2025Derived": 83.5,
+   "year": "2026/2027",
+   "id": 248
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الهندسة الطبية الحيوية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.5,
+   "change": -8.2,
+   "cutoff2025Derived": 94.7,
+   "year": "2026/2027",
+   "id": 249
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الامن السيبراني",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.4,
+   "change": -3.65,
+   "cutoff2025Derived": 90.05,
+   "year": "2026/2027",
+   "id": 250
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الذكاء الإصطناعي",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.1,
+   "change": -4.4,
+   "cutoff2025Derived": 90.5,
+   "year": "2026/2027",
+   "id": 251
+  },
+  {
+   "universityId": "just",
+   "majorAr": "التمريض والرعاية البيطرية",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.1,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 252
+  },
+  {
+   "universityId": "just",
+   "majorAr": "علم البيانات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 84.7,
+   "change": -3.05,
+   "cutoff2025Derived": 87.75,
+   "year": "2026/2027",
+   "id": 253
+  },
+  {
+   "universityId": "just",
+   "majorAr": "العمارة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 83.5,
+   "change": -9.05,
+   "cutoff2025Derived": 92.55,
+   "year": "2026/2027",
+   "id": 254
+  },
+  {
+   "universityId": "just",
+   "majorAr": "هندسة التخطيط الحضري والبيئي",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.6,
+   "change": -1.0,
+   "cutoff2025Derived": 82.6,
+   "year": "2026/2027",
+   "id": 255
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الهندسة الكيميائية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.3,
+   "change": -10.6,
+   "cutoff2025Derived": 91.9,
+   "year": "2026/2027",
+   "id": 256
+  },
+  {
+   "universityId": "just",
+   "majorAr": "اللغة الإنجليزية واللغويات التطبيقية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.9,
+   "change": -8.35,
+   "cutoff2025Derived": 89.25,
+   "year": "2026/2027",
+   "id": 257
+  },
+  {
+   "universityId": "just",
+   "majorAr": "هندسة تصميم وتطوير المنتج",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.6,
+   "change": -3.9,
+   "cutoff2025Derived": 84.5,
+   "year": "2026/2027",
+   "id": 258
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الهندسة المدنية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.5,
+   "change": -7.35,
+   "cutoff2025Derived": 87.85,
+   "year": "2026/2027",
+   "id": 259
+  },
+  {
+   "universityId": "just",
+   "majorAr": "هندسة اشباه الموصلات",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.2,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 260
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الهندسة النووية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.0,
+   "change": -10.7,
+   "cutoff2025Derived": 90.7,
+   "year": "2026/2027",
+   "id": 261
+  },
+  {
+   "universityId": "just",
+   "majorAr": "تكنولوجيا وعلوم الحيوان",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.9,
+   "change": -1.2,
+   "cutoff2025Derived": 81.1,
+   "year": "2026/2027",
+   "id": 262
+  },
+  {
+   "universityId": "just",
+   "majorAr": "التربة والري",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.5,
+   "change": -0.2,
+   "cutoff2025Derived": 79.7,
+   "year": "2026/2027",
+   "id": 263
+  },
+  {
+   "universityId": "just",
+   "majorAr": "تكنولوجيا وعلوم النبات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.3,
+   "change": -3.1,
+   "cutoff2025Derived": 82.4,
+   "year": "2026/2027",
+   "id": 264
+  },
+  {
+   "universityId": "just",
+   "majorAr": "تكنولوجيا صيانة الطائرات",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 79.2,
+   "change": -9.1,
+   "cutoff2025Derived": 88.3,
+   "year": "2026/2027",
+   "id": 265
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الحوسبة السحابية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.4,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 266
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الزراعة الرقمية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.3,
+   "change": -4.5,
+   "cutoff2025Derived": 82.8,
+   "year": "2026/2027",
+   "id": 267
+  },
+  {
+   "universityId": "just",
+   "majorAr": "علم الروبوتات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.9,
+   "change": -7.7,
+   "cutoff2025Derived": 85.6,
+   "year": "2026/2027",
+   "id": 268
+  },
+  {
+   "universityId": "just",
+   "majorAr": "انترنت الأشياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.7,
+   "change": -6.75,
+   "cutoff2025Derived": 84.45,
+   "year": "2026/2027",
+   "id": 269
+  },
+  {
+   "universityId": "just",
+   "majorAr": "تكنولوجيا السيارات الهجينة والكهربائية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 76.7,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 270
+  },
+  {
+   "universityId": "just",
+   "majorAr": "نظم المعلومات الصحية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 76.1,
+   "change": -5.35,
+   "cutoff2025Derived": 81.45,
+   "year": "2026/2027",
+   "id": 271
+  },
+  {
+   "universityId": "just",
+   "majorAr": "تكنولوجيا الطائرات المسيرة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 75.8,
+   "change": -12.6,
+   "cutoff2025Derived": 88.4,
+   "year": "2026/2027",
+   "id": 272
+  },
+  {
+   "universityId": "just",
+   "majorAr": "تصميم الرسوم المتحركة والألعاب",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.5,
+   "change": -3.95,
+   "cutoff2025Derived": 79.45,
+   "year": "2026/2027",
+   "id": 273
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الحوسبة الكمية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.1,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 274
+  },
+  {
+   "universityId": "just",
+   "majorAr": "تصميم وتطوير ألعاب الحاسوب",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.0,
+   "change": -10.1,
+   "cutoff2025Derived": 85.1,
+   "year": "2026/2027",
+   "id": 275
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الواقع الافتراضي وتكنولوجيا المحاكاة",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.0,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 276
+  },
+  {
+   "universityId": "just",
+   "majorAr": "تكنولوجيا الأفلام والوسائط المتعددة",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.0,
+   "change": -3.05,
+   "cutoff2025Derived": 78.05,
+   "year": "2026/2027",
+   "id": 277
+  },
+  {
+   "universityId": "just",
+   "majorAr": "تكنولوجيا الأنظمة الكهربائية الذكية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 74.6,
+   "change": -8.55,
+   "cutoff2025Derived": 83.15,
+   "year": "2026/2027",
+   "id": 278
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الرياضيات التطبيقية والاحصاء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 73.7,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 279
+  },
+  {
+   "universityId": "just",
+   "majorAr": "النانوتكنولوجي وعلم المواد",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 72.6,
+   "change": -6.05,
+   "cutoff2025Derived": 78.65,
+   "year": "2026/2027",
+   "id": 280
+  },
+  {
+   "universityId": "just",
+   "majorAr": "الفيزياء التطبيقية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 72.5,
+   "change": -6.3,
+   "cutoff2025Derived": 78.8,
+   "year": "2026/2027",
+   "id": 281
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "دكتور في الطب",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 97.6,
+   "change": 1.15,
+   "cutoff2025Derived": 96.45,
+   "year": "2026/2027",
+   "id": 282
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "دكتور في طب و جراحة الاسنان",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 97.4,
+   "change": 1.2,
+   "cutoff2025Derived": 96.2,
+   "year": "2026/2027",
+   "id": 283
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الصيدلة",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 95.4,
+   "change": 0.75,
+   "cutoff2025Derived": 94.65,
+   "year": "2026/2027",
+   "id": 284
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "التمريض",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "ذكور وإناث",
+   "cutoff2026": 91.0,
+   "change": 3.5,
+   "cutoff2025Derived": 87.5,
+   "year": "2026/2027",
+   "id": 285
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "العلوم الطبية المخبرية",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 90.4,
+   "change": 3.1,
+   "cutoff2025Derived": 87.3,
+   "year": "2026/2027",
+   "id": 286
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الحقوق",
+   "field": "law",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.9,
+   "change": 3.05,
+   "cutoff2025Derived": 84.85,
+   "year": "2026/2027",
+   "id": 287
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الهندسة الميكانيكية - قوى حرارية وطاقة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.2,
+   "change": 7.2,
+   "cutoff2025Derived": 80.0,
+   "year": "2026/2027",
+   "id": 288
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "التغذية السريرية والحميات",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.1,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 289
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الهندسة المدنية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.15,
+   "change": 5.35,
+   "cutoff2025Derived": 80.8,
+   "year": "2026/2027",
+   "id": 290
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "التغذية وتكنولوجيا الغذاء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.9,
+   "change": -0.95,
+   "cutoff2025Derived": 86.85,
+   "year": "2026/2027",
+   "id": 291
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الفقه وأصوله",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 84.1,
+   "change": 9.0,
+   "cutoff2025Derived": 75.1,
+   "year": "2026/2027",
+   "id": 292
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الكيمياء الصناعية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 83.4,
+   "change": 3.75,
+   "cutoff2025Derived": 79.65,
+   "year": "2026/2027",
+   "id": 293
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الكيمياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 82.9,
+   "change": 4.6,
+   "cutoff2025Derived": 78.3,
+   "year": "2026/2027",
+   "id": 294
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الهندسة الكهربائية - الكترونيات",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 82.7,
+   "change": 2.2,
+   "cutoff2025Derived": 80.5,
+   "year": "2026/2027",
+   "id": 295
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الهندسة الميكانيكية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 82.5,
+   "change": 1.9,
+   "cutoff2025Derived": 80.6,
+   "year": "2026/2027",
+   "id": 296
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "العلوم الحياتية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.8,
+   "change": 2.6,
+   "cutoff2025Derived": 79.2,
+   "year": "2026/2027",
+   "id": 297
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "التأهيل الرياضي",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.4,
+   "change": 2.5,
+   "cutoff2025Derived": 78.9,
+   "year": "2026/2027",
+   "id": 298
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الهندسة الكيميائية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.25,
+   "change": -6.85,
+   "cutoff2025Derived": 88.1,
+   "year": "2026/2027",
+   "id": 299
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "أصول الدين",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.2,
+   "change": 5.7,
+   "cutoff2025Derived": 75.5,
+   "year": "2026/2027",
+   "id": 300
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "هندسة العمارة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.9,
+   "change": -12.7,
+   "cutoff2025Derived": 93.6,
+   "year": "2026/2027",
+   "id": 301
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الهندسة الكهربائية - إتصالات",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.9,
+   "change": 0.85,
+   "cutoff2025Derived": 80.05,
+   "year": "2026/2027",
+   "id": 302
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الهندسة الكهربائية - قوى وتحكم",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.6,
+   "change": -0.15,
+   "cutoff2025Derived": 80.75,
+   "year": "2026/2027",
+   "id": 303
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "هندسة النظم الصناعية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.6,
+   "change": -3.25,
+   "cutoff2025Derived": 83.85,
+   "year": "2026/2027",
+   "id": 304
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "هندسة الحاسوب",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.1,
+   "change": -12.35,
+   "cutoff2025Derived": 92.45,
+   "year": "2026/2027",
+   "id": 305
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "هندسة الحاسوب / أمن الحاسوب والشبكات",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.1,
+   "change": -12.9,
+   "cutoff2025Derived": 93.0,
+   "year": "2026/2027",
+   "id": 306
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "علم البيانات والذكاء الاصطناعي",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.53,
+   "change": -3.47,
+   "cutoff2025Derived": 83.0,
+   "year": "2026/2027",
+   "id": 307
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "هندسة البرمجيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.25,
+   "change": -9.55,
+   "cutoff2025Derived": 88.8,
+   "year": "2026/2027",
+   "id": 308
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "علم الحاسوب",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.1,
+   "change": -3.95,
+   "cutoff2025Derived": 83.05,
+   "year": "2026/2027",
+   "id": 309
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "التربية الرياضية",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.1,
+   "change": 2.24,
+   "cutoff2025Derived": 76.86,
+   "year": "2026/2027",
+   "id": 310
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "علم الحركة والتدريب الرياضي",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.6,
+   "change": 1.0,
+   "cutoff2025Derived": 77.6,
+   "year": "2026/2027",
+   "id": 311
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "تقنيات الوقاية والمكافحة المتكاملة",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.6,
+   "change": 2.5,
+   "cutoff2025Derived": 75.1,
+   "year": "2026/2027",
+   "id": 312
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "أمن المعلومات والأدلة الرقمية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.0,
+   "change": -1.55,
+   "cutoff2025Derived": 78.55,
+   "year": "2026/2027",
+   "id": 313
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "نظم المعلومات الحاسوبية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 76.6,
+   "change": -3.95,
+   "cutoff2025Derived": 80.55,
+   "year": "2026/2027",
+   "id": 314
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الانتاج النباتي",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 76.3,
+   "change": 1.05,
+   "cutoff2025Derived": 75.25,
+   "year": "2026/2027",
+   "id": 315
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الانتاج الحيواني",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 74.6,
+   "change": -3.25,
+   "cutoff2025Derived": 77.85,
+   "year": "2026/2027",
+   "id": 316
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "علم النفس",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 70.3,
+   "change": -10.8,
+   "cutoff2025Derived": 81.1,
+   "year": "2026/2027",
+   "id": 317
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "تكنولوجيا التكييف والتبريد الذكية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 70.1,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 318
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الرياضيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 69.7,
+   "change": -7.85,
+   "cutoff2025Derived": 77.55,
+   "year": "2026/2027",
+   "id": 319
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الفيزياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 67.5,
+   "change": -8.05,
+   "cutoff2025Derived": 75.55,
+   "year": "2026/2027",
+   "id": 320
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "المحاسبة الجنائية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 67.05,
+   "change": -17.0,
+   "cutoff2025Derived": 84.05,
+   "year": "2026/2027",
+   "id": 321
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الترجمة التحريرية والشفوية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 66.5,
+   "change": -5.5,
+   "cutoff2025Derived": 72.0,
+   "year": "2026/2027",
+   "id": 322
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "التسويق الرقمي",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 66.4,
+   "change": -12.3,
+   "cutoff2025Derived": 78.7,
+   "year": "2026/2027",
+   "id": 323
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "إقتصاديات المال والأعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 66.35,
+   "change": -8.8,
+   "cutoff2025Derived": 75.15,
+   "year": "2026/2027",
+   "id": 324
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الجغرافيا ونظم المعلومات الجغرافية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.55,
+   "change": -8.5,
+   "cutoff2025Derived": 74.05,
+   "year": "2026/2027",
+   "id": 325
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "علم الاجتماع",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.4,
+   "change": -10.15,
+   "cutoff2025Derived": 75.55,
+   "year": "2026/2027",
+   "id": 326
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "العلوم المالية والمصرفية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.29,
+   "change": -13.46,
+   "cutoff2025Derived": 78.75,
+   "year": "2026/2027",
+   "id": 327
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "اللغات الأوروبية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.25,
+   "change": -12.85,
+   "cutoff2025Derived": 78.1,
+   "year": "2026/2027",
+   "id": 328
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "التربية الخاصة",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.25,
+   "change": -9.75,
+   "cutoff2025Derived": 75.0,
+   "year": "2026/2027",
+   "id": 329
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "العلوم السياسية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.2,
+   "change": -13.7,
+   "cutoff2025Derived": 78.9,
+   "year": "2026/2027",
+   "id": 330
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الإدارة العامة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.15,
+   "change": -12.3,
+   "cutoff2025Derived": 77.45,
+   "year": "2026/2027",
+   "id": 331
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الارشاد والصحة النفسية",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.15,
+   "change": -11.95,
+   "cutoff2025Derived": 77.1,
+   "year": "2026/2027",
+   "id": 332
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "إدارة الأعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.1,
+   "change": -16.5,
+   "cutoff2025Derived": 81.6,
+   "year": "2026/2027",
+   "id": 333
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "التكنولوجيا المالية وإدارة المخاطر",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.05,
+   "change": -12.1,
+   "cutoff2025Derived": 77.15,
+   "year": "2026/2027",
+   "id": 334
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "التاريخ والحضارة",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.05,
+   "change": -5.2,
+   "cutoff2025Derived": 70.25,
+   "year": "2026/2027",
+   "id": 335
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "المحاسبة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -15.25,
+   "cutoff2025Derived": 80.25,
+   "year": "2026/2027",
+   "id": 336
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "ادارة الازمات",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -14.2,
+   "cutoff2025Derived": 79.2,
+   "year": "2026/2027",
+   "id": 337
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "اللغة العربية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -9.95,
+   "cutoff2025Derived": 74.95,
+   "year": "2026/2027",
+   "id": 338
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "اللغة الانجليزية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -18.6,
+   "cutoff2025Derived": 83.6,
+   "year": "2026/2027",
+   "id": 339
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "اللغة الانجليزية التطبيقية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -24.7,
+   "cutoff2025Derived": 89.7,
+   "year": "2026/2027",
+   "id": 340
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "معلم الصف",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 65.0,
+   "change": -6.2,
+   "cutoff2025Derived": 71.2,
+   "year": "2026/2027",
+   "id": 341
+  },
+  {
+   "universityId": "mutah",
+   "majorAr": "الآثار والسياحة",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -9.6,
+   "cutoff2025Derived": 74.6,
+   "year": "2026/2027",
+   "id": 342
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "الهندسة المدنية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 84.3,
+   "change": 4.25,
+   "cutoff2025Derived": 80.05,
+   "year": "2026/2027",
+   "id": 343
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "هندسة الطاقة المتجددة المتكاملة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 84.0,
+   "change": 4.0,
+   "cutoff2025Derived": 80.0,
+   "year": "2026/2027",
+   "id": 344
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "الهندسة الميكانيكية / الانتاج والآلات",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 82.8,
+   "change": 2.75,
+   "cutoff2025Derived": 80.05,
+   "year": "2026/2027",
+   "id": 345
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "هندسة الأنظمة الذكية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.8,
+   "change": 0.8,
+   "cutoff2025Derived": 80.0,
+   "year": "2026/2027",
+   "id": 346
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "الهندسة الميكانيكية / تكنولوجيا المركبات الهجينة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.0,
+   "change": 0.0,
+   "cutoff2025Derived": 80.0,
+   "year": "2026/2027",
+   "id": 347
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "هندسة الميكاترونكس والروبوتات",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.0,
+   "change": -3.25,
+   "cutoff2025Derived": 83.25,
+   "year": "2026/2027",
+   "id": 348
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "الكيمياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.2,
+   "change": 5.1,
+   "cutoff2025Derived": 73.1,
+   "year": "2026/2027",
+   "id": 349
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "تكنولوجيا الكيمياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.2,
+   "change": 5.05,
+   "cutoff2025Derived": 73.15,
+   "year": "2026/2027",
+   "id": 350
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "العلوم الحياتية التطبيقية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.1,
+   "change": 3.15,
+   "cutoff2025Derived": 74.95,
+   "year": "2026/2027",
+   "id": 351
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "تكنولوجيا التكييف والتبريد",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 70.0,
+   "change": -3.85,
+   "cutoff2025Derived": 73.85,
+   "year": "2026/2027",
+   "id": 352
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "التربية الخاصة",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.75,
+   "change": -8.95,
+   "cutoff2025Derived": 74.7,
+   "year": "2026/2027",
+   "id": 353
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "التكنولوجيا المالية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.6,
+   "change": -9.45,
+   "cutoff2025Derived": 75.05,
+   "year": "2026/2027",
+   "id": 354
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "العلوم المالية والمصرفية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.35,
+   "change": -8.65,
+   "cutoff2025Derived": 74.0,
+   "year": "2026/2027",
+   "id": 355
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "الفيزياء التطبيقية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.1,
+   "change": -4.05,
+   "cutoff2025Derived": 69.15,
+   "year": "2026/2027",
+   "id": 356
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "اللغة العربية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.05,
+   "change": -8.9,
+   "cutoff2025Derived": 73.95,
+   "year": "2026/2027",
+   "id": 357
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "الرياضيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -4.35,
+   "cutoff2025Derived": 69.35,
+   "year": "2026/2027",
+   "id": 358
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "المحاسبة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -11.0,
+   "cutoff2025Derived": 76.0,
+   "year": "2026/2027",
+   "id": 359
+  },
+  {
+   "universityId": "ttu",
+   "majorAr": "إدارة سلاسل التزويد واللوجيستيات الرقمية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 360
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "دكتور في الطب",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 99.3,
+   "change": 1.05,
+   "cutoff2025Derived": 98.25,
+   "year": "2026/2027",
+   "id": 361
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "دكتور في طب الاسنان",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 98.5,
+   "change": 0.95,
+   "cutoff2025Derived": 97.55,
+   "year": "2026/2027",
+   "id": 362
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "هندسة الحاسوب",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 97.5,
+   "change": 0.45,
+   "cutoff2025Derived": 97.05,
+   "year": "2026/2027",
+   "id": 363
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "دكتور الصيدلة",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 97.3,
+   "change": 1.05,
+   "cutoff2025Derived": 96.25,
+   "year": "2026/2027",
+   "id": 364
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "علم الحاسوب",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 97.3,
+   "change": 0.8,
+   "cutoff2025Derived": 96.5,
+   "year": "2026/2027",
+   "id": 365
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغة الانجليزية التطبيقية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 97.0,
+   "change": -0.1,
+   "cutoff2025Derived": 97.1,
+   "year": "2026/2027",
+   "id": 366
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الصيدلة",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 96.6,
+   "change": 0.75,
+   "cutoff2025Derived": 95.85,
+   "year": "2026/2027",
+   "id": 367
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغة الانجليزية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 95.9,
+   "change": 0.6,
+   "cutoff2025Derived": 95.3,
+   "year": "2026/2027",
+   "id": 368
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الهندسة الكهربائية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 95.7,
+   "change": 0.55,
+   "cutoff2025Derived": 95.15,
+   "year": "2026/2027",
+   "id": 369
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "هندسة الميكاترونكس",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 95.7,
+   "change": -0.1,
+   "cutoff2025Derived": 95.8,
+   "year": "2026/2027",
+   "id": 370
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "القانون",
+   "field": "law",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 95.7,
+   "change": 0.1,
+   "cutoff2025Derived": 95.6,
+   "year": "2026/2027",
+   "id": 371
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الهندسة الصناعية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 95.48,
+   "change": -0.77,
+   "cutoff2025Derived": 96.25,
+   "year": "2026/2027",
+   "id": 372
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "التمريض",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 95.3,
+   "change": 2.35,
+   "cutoff2025Derived": 92.95,
+   "year": "2026/2027",
+   "id": 373
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الذكاء الاصطناعي",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 95.3,
+   "change": -0.55,
+   "cutoff2025Derived": 95.85,
+   "year": "2026/2027",
+   "id": 374
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "التمريض",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": "ذكور",
+   "cutoff2026": 95.2,
+   "change": 1.5,
+   "cutoff2025Derived": 93.7,
+   "year": "2026/2027",
+   "id": 375
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "العلاج الطبيعي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 95.2,
+   "change": 1.6,
+   "cutoff2025Derived": 93.6,
+   "year": "2026/2027",
+   "id": 376
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "المحاسبة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 94.6,
+   "change": -1.2,
+   "cutoff2025Derived": 95.8,
+   "year": "2026/2027",
+   "id": 377
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الفقه وأصوله",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 94.5,
+   "change": 4.8,
+   "cutoff2025Derived": 89.7,
+   "year": "2026/2027",
+   "id": 378
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "العلاج الوظيفي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 94.1,
+   "change": 2.25,
+   "cutoff2025Derived": 91.85,
+   "year": "2026/2027",
+   "id": 379
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغة العربية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 93.9,
+   "change": -1.45,
+   "cutoff2025Derived": 95.35,
+   "year": "2026/2027",
+   "id": 380
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الهندسة الميكانيكية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 93.8,
+   "change": -1.2,
+   "cutoff2025Derived": 95.0,
+   "year": "2026/2027",
+   "id": 381
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "علوم السمع والنطق",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 93.7,
+   "change": 3.7,
+   "cutoff2025Derived": 90.0,
+   "year": "2026/2027",
+   "id": 382
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الأمن السيبراني",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 93.7,
+   "change": -1.05,
+   "cutoff2025Derived": 94.75,
+   "year": "2026/2027",
+   "id": 383
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "العلوم الطبية المخبرية",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 93.5,
+   "change": 2.35,
+   "cutoff2025Derived": 91.15,
+   "year": "2026/2027",
+   "id": 384
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغتين الصينية والانجليزية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 93.1,
+   "change": -1.95,
+   "cutoff2025Derived": 95.05,
+   "year": "2026/2027",
+   "id": 385
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "التسويق الرقمي والتجارة الالكترونية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 93.0,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 386
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "تغذية الانسان والحميات",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.9,
+   "change": -3.45,
+   "cutoff2025Derived": 96.35,
+   "year": "2026/2027",
+   "id": 387
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغتين الإسبانية والإنجليزية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.9,
+   "change": 0.05,
+   "cutoff2025Derived": 92.85,
+   "year": "2026/2027",
+   "id": 388
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الأطراف الاصطناعية",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.6,
+   "change": 2.2,
+   "cutoff2025Derived": 90.4,
+   "year": "2026/2027",
+   "id": 389
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "انظمة المعلومات الحاسوبية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.6,
+   "change": -1.9,
+   "cutoff2025Derived": 94.5,
+   "year": "2026/2027",
+   "id": 390
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "أصول الدين",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.4,
+   "change": 3.45,
+   "cutoff2025Derived": 88.95,
+   "year": "2026/2027",
+   "id": 391
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "نظم المعلومات الادارية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.2,
+   "change": -2.3,
+   "cutoff2025Derived": 94.5,
+   "year": "2026/2027",
+   "id": 392
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "علم النفس",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.0,
+   "change": -0.55,
+   "cutoff2025Derived": 92.55,
+   "year": "2026/2027",
+   "id": 393
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "علم البيانات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.9,
+   "change": -1.3,
+   "cutoff2025Derived": 93.2,
+   "year": "2026/2027",
+   "id": 394
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "المصارف الإسلامية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.9,
+   "change": 2.75,
+   "cutoff2025Derived": 89.15,
+   "year": "2026/2027",
+   "id": 395
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغتين الألمانية والإنجليزية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.7,
+   "change": -0.85,
+   "cutoff2025Derived": 92.55,
+   "year": "2026/2027",
+   "id": 396
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الكيمياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.4,
+   "change": 2.55,
+   "cutoff2025Derived": 88.85,
+   "year": "2026/2027",
+   "id": 397
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "هندسة العمارة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 91.0,
+   "change": -3.3,
+   "cutoff2025Derived": 94.3,
+   "year": "2026/2027",
+   "id": 398
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "سلاسل الامداد واللوجيستيات المستدامة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 90.3,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 399
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "التمويل",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 90.2,
+   "change": -2.3,
+   "cutoff2025Derived": 92.5,
+   "year": "2026/2027",
+   "id": 400
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "معلم الصف",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 90.1,
+   "change": -2.05,
+   "cutoff2025Derived": 92.15,
+   "year": "2026/2027",
+   "id": 401
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "التسويق",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 90.08,
+   "change": -4.52,
+   "cutoff2025Derived": 94.6,
+   "year": "2026/2027",
+   "id": 402
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "العلوم الحياتية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 90.0,
+   "change": 3.75,
+   "cutoff2025Derived": 86.25,
+   "year": "2026/2027",
+   "id": 403
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الكيمياء الصناعية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.9,
+   "change": 0.7,
+   "cutoff2025Derived": 89.2,
+   "year": "2026/2027",
+   "id": 404
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "علم وتكنولوجيا الغذاء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.9,
+   "change": -3.05,
+   "cutoff2025Derived": 92.95,
+   "year": "2026/2027",
+   "id": 405
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "هندسة اشباه الموصلات",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.8,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 406
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "تكنولوجيا معلومات الأعمال",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.5,
+   "change": -2.05,
+   "cutoff2025Derived": 91.55,
+   "year": "2026/2027",
+   "id": 407
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الارشاد والصحة النفسية",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.1,
+   "change": -2.2,
+   "cutoff2025Derived": 91.3,
+   "year": "2026/2027",
+   "id": 408
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "التسويق الرقمي",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 89.0,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 409
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "التربية البدنية",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 88.6,
+   "change": -1.95,
+   "cutoff2025Derived": 90.55,
+   "year": "2026/2027",
+   "id": 410
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "التمريض",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 88.3,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 411
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الإدارة العامة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 87.6,
+   "change": -3.45,
+   "cutoff2025Derived": 91.05,
+   "year": "2026/2027",
+   "id": 412
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "علوم الحركة والتدريب الرياضي",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.7,
+   "change": 0.1,
+   "cutoff2025Derived": 86.6,
+   "year": "2026/2027",
+   "id": 413
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "هندسة النظم الذكية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 86.5,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 414
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "التربية الخاصة",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.5,
+   "change": -4.35,
+   "cutoff2025Derived": 90.85,
+   "year": "2026/2027",
+   "id": 415
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغتين الإيطالية والإنجليزية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.3,
+   "change": -4.75,
+   "cutoff2025Derived": 91.05,
+   "year": "2026/2027",
+   "id": 416
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "تحليل البيانات وذكاء الاعمال",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 85.9,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 417
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغتين التركية والانجليزية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.5,
+   "change": -5.25,
+   "cutoff2025Derived": 90.75,
+   "year": "2026/2027",
+   "id": 418
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الحقوق",
+   "field": "law",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.4,
+   "change": -0.45,
+   "cutoff2025Derived": 85.85,
+   "year": "2026/2027",
+   "id": 419
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغة الفرنسية والانجليزية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.3,
+   "change": -6.7,
+   "cutoff2025Derived": 92.0,
+   "year": "2026/2027",
+   "id": 420
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الجيولوجيا البيئية والتطبيقية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.2,
+   "change": 5.65,
+   "cutoff2025Derived": 79.55,
+   "year": "2026/2027",
+   "id": 421
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الهندسة الكيميائية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.1,
+   "change": -8.95,
+   "cutoff2025Derived": 94.05,
+   "year": "2026/2027",
+   "id": 422
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "علم المكتبات والمعلومات",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 84.9,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 423
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الهندسة المدنية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 84.6,
+   "change": -5.55,
+   "cutoff2025Derived": 90.15,
+   "year": "2026/2027",
+   "id": 424
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "هندسة الطاقة المتجددة والتقنيات الخضراء",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 84.6,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 425
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغتين الكورية والانجليزية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 84.5,
+   "change": -5.8,
+   "cutoff2025Derived": 90.3,
+   "year": "2026/2027",
+   "id": 426
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "العمل الاجتماعي",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 83.7,
+   "change": -2.8,
+   "cutoff2025Derived": 86.5,
+   "year": "2026/2027",
+   "id": 427
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "تطوير الألعاب الرقمية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 83.2,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 428
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الرياضيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 83.0,
+   "change": -4.25,
+   "cutoff2025Derived": 87.25,
+   "year": "2026/2027",
+   "id": 429
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "إدارة المصادر التراثية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.9,
+   "change": -1.85,
+   "cutoff2025Derived": 83.75,
+   "year": "2026/2027",
+   "id": 430
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "تصميم وتنسيق المواقع",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.4,
+   "change": -4.2,
+   "cutoff2025Derived": 85.6,
+   "year": "2026/2027",
+   "id": 431
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغتين الروسية والانجليزية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.4,
+   "change": -8.45,
+   "cutoff2025Derived": 89.85,
+   "year": "2026/2027",
+   "id": 432
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "فيزياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.3,
+   "change": -3.35,
+   "cutoff2025Derived": 84.65,
+   "year": "2026/2027",
+   "id": 433
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الاقتصاد الزراعي وإدارة الأعمال الزراعية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.2,
+   "change": -3.95,
+   "cutoff2025Derived": 85.15,
+   "year": "2026/2027",
+   "id": 434
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "وقاية النبات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.1,
+   "change": 0.9,
+   "cutoff2025Derived": 80.2,
+   "year": "2026/2027",
+   "id": 435
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الانتاج الحيواني",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.1,
+   "change": -2.25,
+   "cutoff2025Derived": 83.35,
+   "year": "2026/2027",
+   "id": 436
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الأراضي والمياه والبيئة",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.4,
+   "change": -2.1,
+   "cutoff2025Derived": 82.5,
+   "year": "2026/2027",
+   "id": 437
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الامن السيبراني والشبكات الذكية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.9,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 438
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغة الفرنسية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.8,
+   "change": -9.35,
+   "cutoff2025Derived": 89.15,
+   "year": "2026/2027",
+   "id": 439
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الفلسفة",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.7,
+   "change": -6.1,
+   "cutoff2025Derived": 85.8,
+   "year": "2026/2027",
+   "id": 440
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "العلوم الحياتية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.1,
+   "change": 8.73,
+   "cutoff2025Derived": 70.37,
+   "year": "2026/2027",
+   "id": 441
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "البستنة والمحاصيل",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.4,
+   "change": -2.0,
+   "cutoff2025Derived": 80.4,
+   "year": "2026/2027",
+   "id": 442
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "أنظمة المعلومات الحاسوبية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 76.9,
+   "change": -2.1,
+   "cutoff2025Derived": 79.0,
+   "year": "2026/2027",
+   "id": 443
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الإحصاء وعلم البيانات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 76.6,
+   "change": -9.5,
+   "cutoff2025Derived": 86.1,
+   "year": "2026/2027",
+   "id": 444
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "تكنولوجيا معلومات الأعمال",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.0,
+   "change": -10.8,
+   "cutoff2025Derived": 85.8,
+   "year": "2026/2027",
+   "id": 445
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "إدارة الضيافة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 71.15,
+   "change": -14.85,
+   "cutoff2025Derived": 86.0,
+   "year": "2026/2027",
+   "id": 446
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "إدارة الفعاليات",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 68.83,
+   "change": -19.3,
+   "cutoff2025Derived": 88.13,
+   "year": "2026/2027",
+   "id": 447
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "إدارة الضيافة وخدمة العملاء",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "الرئيسي",
+   "technicalProgram": true,
+   "gender": null,
+   "cutoff2026": 68.5,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 448
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "إدارة الفنادق",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 68.1,
+   "change": -5.85,
+   "cutoff2025Derived": 73.95,
+   "year": "2026/2027",
+   "id": 449
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغة الإنجليزية التطبيقية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 67.8,
+   "change": -10.0,
+   "cutoff2025Derived": 77.8,
+   "year": "2026/2027",
+   "id": 450
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "الادارة السياحية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.5,
+   "change": -7.0,
+   "cutoff2025Derived": 72.5,
+   "year": "2026/2027",
+   "id": 451
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغة العربية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.4,
+   "change": -10.55,
+   "cutoff2025Derived": 75.95,
+   "year": "2026/2027",
+   "id": 452
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "إدارة الأعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.35,
+   "change": -15.0,
+   "cutoff2025Derived": 80.35,
+   "year": "2026/2027",
+   "id": 453
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغة الفرنسية / الانجليزية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.35,
+   "change": -6.35,
+   "cutoff2025Derived": 71.7,
+   "year": "2026/2027",
+   "id": 454
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "اللغة الانجليزية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.2,
+   "change": -10.55,
+   "cutoff2025Derived": 75.75,
+   "year": "2026/2027",
+   "id": 455
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "إدارة الجودة والعمليات",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.05,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 456
+  },
+  {
+   "universityId": "uj",
+   "majorAr": "المحاسبة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": "العقبة",
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -12.55,
+   "cutoff2025Derived": 77.55,
+   "year": "2026/2027",
+   "id": 457
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "دكتور في الطب",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 98.1,
+   "change": 1.2,
+   "cutoff2025Derived": 96.9,
+   "year": "2026/2027",
+   "id": 458
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الصيدلة",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 95.6,
+   "change": 0.75,
+   "cutoff2025Derived": 94.85,
+   "year": "2026/2027",
+   "id": 459
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "القانون",
+   "field": "law",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 94.0,
+   "change": 2.8,
+   "cutoff2025Derived": 91.2,
+   "year": "2026/2027",
+   "id": 460
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "التمريض",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 92.8,
+   "change": 4.85,
+   "cutoff2025Derived": 87.95,
+   "year": "2026/2027",
+   "id": 461
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الفقه وأصوله",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 88.9,
+   "change": 1.0,
+   "cutoff2025Derived": 87.9,
+   "year": "2026/2027",
+   "id": 462
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "علم النفس الإكلينيكي",
+   "field": "health",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.4,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 463
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "العلوم الحياتية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 86.2,
+   "change": 4.7,
+   "cutoff2025Derived": 81.5,
+   "year": "2026/2027",
+   "id": 464
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "أصول الدين",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.3,
+   "change": 4.25,
+   "cutoff2025Derived": 81.05,
+   "year": "2026/2027",
+   "id": 465
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "علم البيانات والذكاء الاصطناعي",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.2,
+   "change": -3.85,
+   "cutoff2025Derived": 89.05,
+   "year": "2026/2027",
+   "id": 466
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الكيمياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 85.2,
+   "change": 5.0,
+   "cutoff2025Derived": 80.2,
+   "year": "2026/2027",
+   "id": 467
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الفنون الرقمية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 84.9,
+   "change": 5.75,
+   "cutoff2025Derived": 79.15,
+   "year": "2026/2027",
+   "id": 468
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الاقتصاد والمصارف الاسلامية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 84.5,
+   "change": 7.3,
+   "cutoff2025Derived": 77.2,
+   "year": "2026/2027",
+   "id": 469
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الأمن السيبراني",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 84.0,
+   "change": -5.5,
+   "cutoff2025Derived": 89.5,
+   "year": "2026/2027",
+   "id": 470
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الدراسات الاسلامية / التربية الإسلامية",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 83.8,
+   "change": 3.7,
+   "cutoff2025Derived": 80.1,
+   "year": "2026/2027",
+   "id": 471
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "هندسة الحاسوب",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 83.4,
+   "change": -10.25,
+   "cutoff2025Derived": 93.65,
+   "year": "2026/2027",
+   "id": 472
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "تكنولوجيا معلومات الأعمال",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 83.3,
+   "change": -0.4,
+   "cutoff2025Derived": 83.7,
+   "year": "2026/2027",
+   "id": 473
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الدراسات الاسلامية / الدراسات الأسرية",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 82.7,
+   "change": 5.0,
+   "cutoff2025Derived": 77.7,
+   "year": "2026/2027",
+   "id": 474
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "علوم الرياضة",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.8,
+   "change": 2.5,
+   "cutoff2025Derived": 79.3,
+   "year": "2026/2027",
+   "id": 475
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "التربية البدنية التطبيقي",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.7,
+   "change": 1.2,
+   "cutoff2025Derived": 80.5,
+   "year": "2026/2027",
+   "id": 476
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "اللغة الانجليزية التطبيقية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.5,
+   "change": -11.75,
+   "cutoff2025Derived": 93.25,
+   "year": "2026/2027",
+   "id": 477
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "التربية الفنية",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.4,
+   "change": 3.2,
+   "cutoff2025Derived": 78.2,
+   "year": "2026/2027",
+   "id": 478
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الدراسات الاسلامية / الدعوة والاعلام الاسلامي",
+   "field": "sharia",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 81.1,
+   "change": 4.35,
+   "cutoff2025Derived": 76.75,
+   "year": "2026/2027",
+   "id": 479
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الهندسة الميكانيكية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.8,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 480
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "هندسة المعلوماتية الطبية الحيوية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.4,
+   "change": -9.15,
+   "cutoff2025Derived": 89.55,
+   "year": "2026/2027",
+   "id": 481
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الهندسة الصناعية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.4,
+   "change": -11.25,
+   "cutoff2025Derived": 91.65,
+   "year": "2026/2027",
+   "id": 482
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "هندسة المدن الذكية والمستدامة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.3,
+   "change": -6.5,
+   "cutoff2025Derived": 86.8,
+   "year": "2026/2027",
+   "id": 483
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "هندسة النظم الطبية الحيوية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.3,
+   "change": -10.05,
+   "cutoff2025Derived": 90.35,
+   "year": "2026/2027",
+   "id": 484
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "هندسة الاتصالات",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.2,
+   "change": -8.25,
+   "cutoff2025Derived": 88.45,
+   "year": "2026/2027",
+   "id": 485
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الهندسة المدنية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.1,
+   "change": -3.3,
+   "cutoff2025Derived": 83.4,
+   "year": "2026/2027",
+   "id": 486
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "هندسة الالكترونيات والروبوتات",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.1,
+   "change": -9.1,
+   "cutoff2025Derived": 89.2,
+   "year": "2026/2027",
+   "id": 487
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "هندسة القوى الكهربائية",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.05,
+   "change": -6.9,
+   "cutoff2025Derived": 86.95,
+   "year": "2026/2027",
+   "id": 488
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "هندسة العمارة",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.0,
+   "change": -10.65,
+   "cutoff2025Derived": 90.65,
+   "year": "2026/2027",
+   "id": 489
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "هندسة الحاسوب / انترنت الأشياء",
+   "field": "engineering",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 80.0,
+   "change": -6.4,
+   "cutoff2025Derived": 86.4,
+   "year": "2026/2027",
+   "id": 490
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الجيولوجيا التطبيقية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 79.9,
+   "change": 3.5,
+   "cutoff2025Derived": 76.4,
+   "year": "2026/2027",
+   "id": 491
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "اللغات الحديثة / لغة ألمانية - لغة انجليزية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 78.1,
+   "change": -7.25,
+   "cutoff2025Derived": 85.35,
+   "year": "2026/2027",
+   "id": 492
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "إدارة الاعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 77.9,
+   "change": -7.1,
+   "cutoff2025Derived": 85.0,
+   "year": "2026/2027",
+   "id": 493
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "معلم الصف",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "إناث",
+   "cutoff2026": 77.6,
+   "change": -7.8,
+   "cutoff2025Derived": 85.4,
+   "year": "2026/2027",
+   "id": 494
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "اللغة الانجليزية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.9,
+   "change": -12.5,
+   "cutoff2025Derived": 88.4,
+   "year": "2026/2027",
+   "id": 495
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "اللغة العربية وآدابها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 75.2,
+   "change": -8.85,
+   "cutoff2025Derived": 84.05,
+   "year": "2026/2027",
+   "id": 496
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "المحاسبة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 74.85,
+   "change": -9.5,
+   "cutoff2025Derived": 84.35,
+   "year": "2026/2027",
+   "id": 497
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الرياضيات",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 74.8,
+   "change": -2.65,
+   "cutoff2025Derived": 77.45,
+   "year": "2026/2027",
+   "id": 498
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الفيزياء الطبية والحيوية",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 74.6,
+   "change": -7.25,
+   "cutoff2025Derived": 81.85,
+   "year": "2026/2027",
+   "id": 499
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "التسويق",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 74.23,
+   "change": -12.27,
+   "cutoff2025Derived": 86.5,
+   "year": "2026/2027",
+   "id": 500
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "اللغات الحديثة / لغة فرنسية - لغة انجليزية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 74.0,
+   "change": -12.85,
+   "cutoff2025Derived": 86.85,
+   "year": "2026/2027",
+   "id": 501
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الطفولة المبكرة",
+   "field": "education",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": "اناث",
+   "cutoff2026": 73.6,
+   "change": -5.05,
+   "cutoff2025Derived": 78.65,
+   "year": "2026/2027",
+   "id": 502
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الإذاعة والتلفزيون",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 73.4,
+   "change": -9.95,
+   "cutoff2025Derived": 83.35,
+   "year": "2026/2027",
+   "id": 503
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "اللغة العربية التطبيقية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 73.25,
+   "change": -4.0,
+   "cutoff2025Derived": 77.25,
+   "year": "2026/2027",
+   "id": 504
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "علم الاجتماع والعمل الاجتماعي",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 73.2,
+   "change": -8.6,
+   "cutoff2025Derived": 81.8,
+   "year": "2026/2027",
+   "id": 505
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "العلوم السياسية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 72.5,
+   "change": -10.05,
+   "cutoff2025Derived": 82.55,
+   "year": "2026/2027",
+   "id": 506
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الفيزياء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 71.5,
+   "change": -5.85,
+   "cutoff2025Derived": 77.35,
+   "year": "2026/2027",
+   "id": 507
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الإدارة العامة",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 71.3,
+   "change": -11.05,
+   "cutoff2025Derived": 82.35,
+   "year": "2026/2027",
+   "id": 508
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "التاريخ والحضارة",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 71.25,
+   "change": -4.9,
+   "cutoff2025Derived": 76.15,
+   "year": "2026/2027",
+   "id": 509
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الاحصاء",
+   "field": "science_tech",
+   "allowedStreams": [
+    "علمي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 71.1,
+   "change": -5.3,
+   "cutoff2025Derived": 76.4,
+   "year": "2026/2027",
+   "id": 510
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الترجمة التحريرية والشفوية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 70.9,
+   "change": -12.95,
+   "cutoff2025Derived": 83.85,
+   "year": "2026/2027",
+   "id": 511
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الجغرافيا",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 70.4,
+   "change": -7.45,
+   "cutoff2025Derived": 77.85,
+   "year": "2026/2027",
+   "id": 512
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "صيانة المصادر التراثية وإدارتها",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 70.2,
+   "change": -2.25,
+   "cutoff2025Derived": 72.45,
+   "year": "2026/2027",
+   "id": 513
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "العلوم المالية والمصرفية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 70.15,
+   "change": -11.8,
+   "cutoff2025Derived": 81.95,
+   "year": "2026/2027",
+   "id": 514
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "إقتصاد المال والأعمال",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 69.65,
+   "change": -13.5,
+   "cutoff2025Derived": 83.15,
+   "year": "2026/2027",
+   "id": 515
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "العلاقات العامة والإعلان",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 69.5,
+   "change": -11.7,
+   "cutoff2025Derived": 81.2,
+   "year": "2026/2027",
+   "id": 516
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الآثار",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 69.4,
+   "change": -6.75,
+   "cutoff2025Derived": 76.15,
+   "year": "2026/2027",
+   "id": 517
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الأنثروبولوجيا",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 67.85,
+   "change": -9.65,
+   "cutoff2025Derived": 77.5,
+   "year": "2026/2027",
+   "id": 518
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الادارة السياحية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 67.6,
+   "change": -10.2,
+   "cutoff2025Derived": 77.8,
+   "year": "2026/2027",
+   "id": 519
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الاقتصاد",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 67.3,
+   "change": null,
+   "cutoff2025Derived": null,
+   "year": "2026/2027",
+   "id": 520
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الادارة الفندقية",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.95,
+   "change": -13.65,
+   "cutoff2025Derived": 79.6,
+   "year": "2026/2027",
+   "id": 521
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "الارشاد السياحي",
+   "field": "business",
+   "allowedStreams": [
+    "علمي",
+    "أدبي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.7,
+   "change": -10.75,
+   "cutoff2025Derived": 76.45,
+   "year": "2026/2027",
+   "id": 522
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "اللغة الفرنسية التطبيقية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.05,
+   "change": -13.9,
+   "cutoff2025Derived": 78.95,
+   "year": "2026/2027",
+   "id": 523
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "اللغة العبرية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -10.9,
+   "cutoff2025Derived": 75.9,
+   "year": "2026/2027",
+   "id": 524
+  },
+  {
+   "universityId": "yu",
+   "majorAr": "اللغات الحديثة / لغة تركية - لغة انجليزية",
+   "field": "humanities",
+   "allowedStreams": [
+    "علمي",
+    "أدبي",
+    "شرعي"
+   ],
+   "campus": null,
+   "technicalProgram": false,
+   "gender": null,
+   "cutoff2026": 65.0,
+   "change": -18.1,
+   "cutoff2025Derived": 83.1,
+   "year": "2026/2027",
+   "id": 525
+  }
+ ]
+}
